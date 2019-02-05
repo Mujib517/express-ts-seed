@@ -1,5 +1,7 @@
 # Node Express Seed with Typescript
 
+<img src="https://travis-ci.org/Mujib517/express-ts-seed.svg?branch=master"/>
+
 To Build 
 
 ```npm run build```
