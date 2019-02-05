@@ -1,0 +1,11 @@
+{
+    "compileOnSave": false,
+    "include": ["src/**/*.*"],
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es5",
+        "types":["node"],
+        "lib": ["es2015"]
+    },
+    
+}
